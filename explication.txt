@@ -20,3 +20,8 @@ Créer un dossier
 Ouvre powerShell dans dossier
 >>> git clone lien_vers_depot
 Pour que la personner modifier il faut le mettre en colaborateur
+
+A chaque modification il faut faire
+>>> git add . //Ou juste le nom du ficher
+>>> git commit -m "message"
+>>> pit push
