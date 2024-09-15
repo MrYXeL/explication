@@ -1,0 +1,22 @@
+Créer dépot sur github (le même nom que le fichier sur pc est mieux)
+Ouvrir powerShell dans fichier que l'on veut mettre puis mettre
+>>> git init
+>>> git remote add origin lien_vers_depot
+
+>>> git add nomFichier //Pour un seul fichier sinon
+>>> git add . //Pour tout les fichiers
+
+>>> git commit "message" //On "upload" les fichier
+>>> git push //On envoie tout
+
+Ensuite il faut faire >>> git pull //Pour récuperer les modification
+
+
+>>> git status //Pour voir état du dépot
+
+
+Pour mettre les fichier sur autre ordinateur il faut cloner les fichier
+Créer un dossier
+Ouvre powerShell dans dossier
+>>> git clone lien_vers_depot
+Pour que la personner modifier il faut le mettre en colaborateur
