@@ -6,7 +6,7 @@ Ouvrir powerShell dans fichier que l'on veut mettre puis mettre
 >>> git add nomFichier //Pour un seul fichier sinon
 >>> git add . //Pour tout les fichiers
 
->>> git commit "message" //On "upload" les fichier
+>>> git commit -m "message" //On "upload" les fichier
 >>> git push //On envoie tout
 
 Ensuite il faut faire >>> git pull //Pour récuperer les modification
