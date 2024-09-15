@@ -12,16 +12,31 @@ Ouvrir powerShell dans fichier que l'on veut mettre puis mettre
 Ensuite il faut faire >>> git pull //Pour récuperer les modification
 
 
->>> git status //Pour voir état du dépot
-
-
 Pour mettre les fichier sur autre ordinateur il faut cloner les fichier
 Créer un dossier
 Ouvre powerShell dans dossier
 >>> git clone lien_vers_depot
 Pour que la personner modifier il faut le mettre en colaborateur
 
+
 A chaque modification il faut faire
 >>> git add . //Ou juste le nom du ficher
 >>> git commit -m "message"
->>> pit push
+>>> git push
+
+
+Pour supprimer un fichier
+>>> git rm nomFichier
+>>> git commit -m "message"
+>>> git push
+
+
+>>> git status //Pour voir état du dépot
+Si fichier dans un dossieron fait dossier\fichier
+
+
+
+
+
+
+https://youtu.be/X3KCX99I2pQ?si=QPDdkaVWDp27dvrJ
