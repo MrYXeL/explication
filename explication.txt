@@ -34,6 +34,13 @@ Pour supprimer un fichier
 >>> git status //Pour voir état du dépot
 Si fichier dans un dossieron fait dossier\fichier
 
+.gitignore permet de d'informer git de ne pas envoyer des fichier/dossier
+
+pour dossier ainsi que son contenu:
+  nom_dossier/
+fichier seul:
+  nom_fichier
+
 
 
 
