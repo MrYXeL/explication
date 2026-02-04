@@ -12,7 +12,7 @@ Ouvrir powerShell dans fichier que l'on veut mettre puis mettre
 Ensuite il faut faire >>> git pull //Pour récuperer les modification
 
 
-Pour mettre les fichier sur autre ordinateur il faut cloner les fichier
+Pour mettre les fichier (et travailler dessus) sur autre ordinateur il faut cloner les fichier
 Créer un dossier
 Ouvre powerShell dans dossier
 >>> git clone lien_vers_depot
